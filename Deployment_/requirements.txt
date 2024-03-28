@@ -1,0 +1,6 @@
+Flask
+Werkzeug
+Flask
+numpy
+catboost
+waitress
